@@ -38,26 +38,26 @@ The Blood Management System helps in maintaining records of blood donors and pat
 ---
 
 ## 📂 Project Structure
-BloodManagementSystem/
-├─ Forms/
-│ ├─ LoginForm.cs
-│ ├─ RegisterForm.cs
-│ ├─ DonorDashboard.cs
-│ ├─ PatientDashboard.cs
-│ ├─ DonateBloodForm.cs
-│ ├─ RequestBloodForm.cs
-│ ├─ AdminDashboard.cs
-├─ Models/
-│ ├─ User.cs
-│ ├─ Donation.cs
-│ ├─ Request.cs
-├─ Services/
-│ ├─ Database.cs
-│ ├─ UserService.cs
-│ ├─ DonationService.cs
-│ ├─ RequestService.cs
-├─ Program.cs
-└─ README.md
+BloodManagementSystem/ <br>
+├─ Forms/ <br>
+│ ├─ LoginForm.cs <br>
+│ ├─ RegisterForm.cs <br>
+│ ├─ DonorDashboard.cs <br>
+│ ├─ PatientDashboard.cs <br>
+│ ├─ DonateBloodForm.cs <br>
+│ ├─ RequestBloodForm.cs <br>
+│ ├─ AdminDashboard.cs <br>
+├─ Models/ <br>
+│ ├─ User.cs <br>
+│ ├─ Donation.cs <br>
+│ ├─ Request.cs <br>
+├─ Services/ <br>
+│ ├─ Database.cs <br>
+│ ├─ UserService.cs <br>
+│ ├─ DonationService.cs <br>
+│ ├─ RequestService.cs <br>
+├─ Program.cs <br>
+└─ README.md <br>
 
 
 ---
